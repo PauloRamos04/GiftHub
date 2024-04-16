@@ -1,0 +1,6 @@
+[submodule "gifthub-frontend"]
+	path = gifthub-frontend
+	url = https://github.com/PauloRamos04/gifthub-frontend.git
+[submodule "gifthub-backend"]
+	path = gifthub-backend
+	url = https://github.com/PauloRamos04/gifthub-backend.git
